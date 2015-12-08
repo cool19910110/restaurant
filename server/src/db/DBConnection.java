@@ -21,7 +21,7 @@ public class DBConnection {
 	private static final int MAX_RECOMMENDED_RESTAURANTS = 10;
 	private static final int MIN_RECOMMENDED_RESTAURANTS = 3;
 	/**
-	 * Make sure it is the only place to configure db related parameters
+	 * Make sure it is the only place to configure db related parameters123
 	 */
 	public static final String HOSTNAME = "localhost";
 	public static final String PORT = "3306";
